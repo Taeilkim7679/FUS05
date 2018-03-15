@@ -40,7 +40,7 @@ body {
       display: grid;
       grid-template-areas: "box box";
       grid-auto-columns: 50%;
-      grid-auto-rows: 100%;
+      grid-auto-rows: 100px;
   }
   .box4{
       grid-row-start: 2;
